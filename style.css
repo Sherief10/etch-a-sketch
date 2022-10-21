@@ -1,0 +1,13 @@
+.board{
+    width: 500px;
+    height: 500px;
+    display: grid;
+}
+
+.square{
+    background-color: black;
+}
+
+.square:hover{
+    background-color: black;
+}
